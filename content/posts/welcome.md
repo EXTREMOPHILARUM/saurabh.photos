@@ -4,7 +4,7 @@ date: "2024-12-27"
 description: "Join me as I explore the world and capture moments through the lens of my camera"
 author: "Saurabh"
 tags: ["welcome", "travel", "photography"]
-published: true
+published: false
 ---
 
 ## Welcome!

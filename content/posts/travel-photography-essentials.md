@@ -4,7 +4,7 @@ date: "2024-12-26"
 description: "Essential gear, tips, and techniques for capturing your adventures around the world"
 author: "Saurabh"
 tags: ["tutorial", "travel-photography", "tips"]
-published: true
+published: false
 ---
 
 ## Introduction to Travel Photography

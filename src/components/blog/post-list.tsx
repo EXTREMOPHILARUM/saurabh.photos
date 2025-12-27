@@ -15,9 +15,11 @@ export function PostList({ posts }: PostListProps) {
   }
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mx-auto max-w-7xl">
+    <div className="flex flex-wrap justify-center gap-6 mx-auto max-w-7xl">
       {posts.map(post => (
-        <PostCard key={post.slug} post={post} />
+        <div key={post.slug} className="w-full md:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)]">
+          <PostCard post={post} />
+        </div>
       ))}
     </div>
   );

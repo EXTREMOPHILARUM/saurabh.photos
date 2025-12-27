@@ -14,8 +14,8 @@ export function PostCard({ post }: PostCardProps) {
   const { slug, frontmatter } = post;
 
   return (
-    <Link to={`/post/${slug}`} className="block">
-      <Card className="overflow-hidden hover:shadow-lg transition-shadow h-full">
+    <Link to={`/post/${slug}`} className="block h-full">
+      <Card className="overflow-hidden hover:shadow-lg transition-shadow h-full flex flex-col">
         {frontmatter.featuredImage && (
           <AspectRatio ratio={16 / 9} className="bg-muted">
             <img
@@ -27,11 +27,11 @@ export function PostCard({ post }: PostCardProps) {
           </AspectRatio>
         )}
         <CardHeader>
-          <CardTitle>{frontmatter.title}</CardTitle>
-          <CardDescription>{frontmatter.description}</CardDescription>
+          <CardTitle className="line-clamp-2">{frontmatter.title}</CardTitle>
+          <CardDescription className="line-clamp-2">{frontmatter.description}</CardDescription>
         </CardHeader>
         {frontmatter.tags && frontmatter.tags.length > 0 && (
-          <CardContent>
+          <CardContent className="flex-grow">
             <div className="flex flex-wrap gap-2">
               {frontmatter.tags.map(tag => (
                 <Badge key={tag} variant="secondary">{tag}</Badge>
@@ -39,7 +39,7 @@ export function PostCard({ post }: PostCardProps) {
             </div>
           </CardContent>
         )}
-        <CardFooter>
+        <CardFooter className="mt-auto">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
             <CalendarIcon className="h-4 w-4" />
             <time dateTime={frontmatter.date}>

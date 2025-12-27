@@ -20,10 +20,12 @@ export function getAllPosts(): BlogPost[] {
     };
   });
 
-  return posts.sort((a, b) =>
-    new Date(b.frontmatter.date).getTime() -
-    new Date(a.frontmatter.date).getTime()
-  );
+  return posts
+    .filter(post => post.frontmatter.published !== false)
+    .sort((a, b) =>
+      new Date(b.frontmatter.date).getTime() -
+      new Date(a.frontmatter.date).getTime()
+    );
 }
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
