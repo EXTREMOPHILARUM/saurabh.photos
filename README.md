@@ -106,4 +106,6 @@ import { cn } from "@/lib/utils"
 
 ## License
 
-Private
+MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Saurabh Nandedkar
