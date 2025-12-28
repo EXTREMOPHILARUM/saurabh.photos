@@ -14,14 +14,8 @@ export default {
 
       if (!hasExtension) {
         // Serve index.html for SPA routes
-        const indexResponse = await env.ASSETS.fetch(new URL('/index.html', url));
-        return new Response(indexResponse.body, {
-          ...indexResponse,
-          headers: {
-            ...Object.fromEntries(indexResponse.headers),
-            'Content-Type': 'text/html; charset=utf-8',
-          },
-        });
+        const indexRequest = new Request(new URL('/index.html', url), request);
+        response = await env.ASSETS.fetch(indexRequest);
       }
     }
 
