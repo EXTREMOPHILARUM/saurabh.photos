@@ -134,48 +134,50 @@ Day 1: completed. Tomorrow: Fukuoka.
 
 ---
 
-## Day 2: Tokyo to Fukuoka - The Delayed 507 Kilometer Journey
+## Day 2: Tokyo to Fukuoka - First Day with the JR Pass
 **Date**: September 30, 2025
 **Distance**: 595.21 km
 **Transport**: 4 trips (trains, walking)
 **Walking**: 6.13 km
 
-**The Numbers**:
-Woke up at 06:30. Activated the 14-day JR Pass at Tokyo Station at 08:00. Cost: ¥80,000. This pass allows unlimited travel on JR trains (including most Shinkansen) for 14 consecutive days.
+Woke up at 05:30. Today was Day 1 of the JR Pass—activated yesterday, effective today. I'd done the math yesterday: ¥80,000 for unlimited JR trains for 14 days. Activating it a day early would've burned ¥5,714 on an 81.7 km train ride. Today's journey: 507 kilometers to Fukuoka. This was where the pass started earning its value.
 
-The math: Individual Shinkansen tickets are expensive. Tokyo→Fukuoka costs ¥22,320 one way. With multiple long-distance routes planned (Tokyo→Fukuoka, Fukuoka→Nagasaki, Hiroshima→Nagoya, Nagano→Tokyo), buying individual tickets would cost approximately ¥110,000-120,000. The ¥80,000 pass saves roughly ¥30,000-40,000.
+Left the hotel at 06:00. Arrived at Tokyo Station at 06:21. Boarded the Shinkansen.
 
-Boarded Shinkansen to Fukuoka at 09:15. Distance: 507.38 kilometers. Duration: 3.02 hours. Average speed: 168 km/h. This is the Nozomi or Mizuho Shinkansen - the fastest tier. Except JR Pass doesn't cover Nozomi/Mizuho on this route. I took the Sakura Shinkansen instead. Slightly slower but covered by the pass.
+The reserved seat from yesterday turned out to be unnecessary. I'd misunderstood. The JR Pass includes reserved seats at no extra cost. You just reserve them. I'd paid extra for something that was already included. This was suboptimal. I noted it for future reference.
 
-Arrived Fukuoka around 12:30. Finally on schedule. One day late, but on schedule.
-
-**What Actually Happened (Day 2)**:
 The Shinkansen from Tokyo to Fukuoka is an engineering achievement. You're traveling at 168 km/h through a country with mountains, tunnels, and earthquakes. The ride is smooth enough to balance a coin on its edge on the tray table. I tried this. It worked.
 
-Tried photographing through the train window. Settings: 1/1000s to freeze motion, f/5.6, ISO 400-800 depending on light. Results: mostly motion blur. Even at 1/1000s, shooting through moving train windows at 168 km/h produces blur from vibration and relative motion. The reflections on the window don't help.
+Tried photographing through the train window. Settings: 1/1000s to freeze motion, f/5.6, ISO 400-800 depending on light. Results: mostly motion blur. Even at 1/1000s, shooting through moving train windows at 168 km/h produces blur from vibration and relative motion. The reflections don't help.
 
-Gave up after 15 attempts. Watched the scenery instead. Rural Japan at 168 km/h: rice fields, small towns, mountains, rivers, more rice fields. It was beautiful. I have zero usable photos of it.
+Gave up after 15 attempts. Watched the scenery instead. Rural Japan at 168 km/h: rice fields, small towns, mountains, rivers, more rice fields. Beautiful. Zero usable photos.
 
-Arrived Fukuoka at 12:30. Checked into hotel. Walked around the city (approximately 6 km total). Shot around Canal City, Ohori Park. The afternoon light was harsh (midday sun at 13:00-15:00). Not ideal for photography but useful for understanding the city layout.
+Made a transfer at Shin-Osaka around 09:54. Continued to Fukuoka. Arrived Hakata Station at 12:23. Finally on schedule. One day late, but on schedule.
 
-Returned to hotel at 18:00. Backed up photos to MacBook. Day 2 photo count: 143 RAW files. Estimated keepers: maybe 8.
+Took the subway to the hotel area. Check-in was quick. Dropped bags, walked around the neighborhood. The afternoon plan: visit Dazaifu Tenmangu, a major shrine about 16 kilometers from Fukuoka.
 
-**Photography Notes**:
-First real photography day with the D7500 + 18-140mm kit lens. The lens is adequate in good light. At f/5.6-f/8 in daylight, it produces acceptable sharpness. Image stabilization helps for handheld shooting at 1/60s-1/125s.
+Caught a train at 14:30. Arrived Dazaifu around 15:00.
 
-Limitations noticed:
-- Not great in low light (maximum aperture is f/3.5 at 18mm, f/5.6 at 140mm)
-- Autofocus hunts in lower contrast situations
-- Not sharp at the edges at wide apertures
+Dazaifu Tenmangu is dedicated to Sugawara no Michizane, a scholar and politician from the 9th century. He's now the deity of learning. Students visit to pray for academic success. The shrine is over 1,100 years old. The architecture is Shinto traditional: wood, clean lines, minimal ornamentation. The main hall was rebuilt in 1591.
 
-But it works. For travel photography where carrying one lens is the priority, it's sufficient.
+I photographed the main hall, the approach, the surrounding gardens. The D7500 + 18-140mm handled it adequately. Aperture f/5.6-f/8, ISO 200-400 in daylight. The afternoon light was harsh—not ideal—but the architecture held up.
 
-**Reality Check**:
-Expected Day 1 (now Day 2): Arrive in Fukuoka early, full day of photography.
+First real photography day with the kit lens. Limitations noticed:
+- Not great in low light (f/3.5 at 18mm, f/5.6 at 140mm maximum aperture)
+- Autofocus hunts in lower contrast
+- Edge sharpness drops at wide apertures
 
-Actual Day 2: Arrive at 12:30, half day of photography, still recovering from jet lag and flight delay.
+But it works. For one-lens travel photography, it's sufficient.
 
-The 7-hour delay on Day 0 had shifted everything. I was now one day behind schedule. This would affect the rest of the trip timing. But I was in Fukuoka. Photography had officially begun.
+Left Dazaifu at 17:04. Back to Fukuoka by 17:39.
+
+Evening plan: Canal City Hakata. It's a shopping and entertainment complex built around an artificial canal. The design is distinctive—curved architecture, water features, bright colors. Not traditional Japanese aesthetic. More postmodern shopping mall with ambition.
+
+Walked from the train station to Canal City. About 3.3 kilometers. Arrived around 18:00. Shot the exterior, the canal, the interior atrium. The evening light was better than midday—softer, more directional.
+
+Took the subway back to the hotel around 19:50. Backed up photos to MacBook. Day 2 photo count: 143 RAW files. Estimated keepers: maybe 12.
+
+The 7-hour delay on Day 0 had shifted everything. I was one day behind schedule. But I was in Fukuoka, I'd visited Dazaifu Tenmangu, photographed Canal City, and the JR Pass was working. Photography had officially begun.
 
 **Photos from This Day**:
 [Add photo gallery here]
