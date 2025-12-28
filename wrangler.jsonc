@@ -1,9 +1,9 @@
 {
   "name": "saurabh-photos",
   "compatibility_date": "2025-12-27",
+  "main": "worker.js",
   "assets": {
-    "directory": "./dist",
-    "html_handling": "auto-trailing-slash"
+    "directory": "./dist"
   },
   "routes": [
     {
