@@ -2,7 +2,8 @@
   "name": "saurabh-photos",
   "compatibility_date": "2025-12-27",
   "assets": {
-    "directory": "./dist"
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash"
   },
   "routes": [
     {
