@@ -173,9 +173,9 @@ Left Dazaifu at 17:04. Back to Fukuoka by 17:39.
 
 Sunset was approaching. I headed to the beach near Fukuoka Dome. Stopped at a Lawson convenience store on the way. Purchased onigiri and Natural Lawson cold cocoa milk. This was the correct decision.
 
-Arrived at the beach around 18:00. Fukuoka Dome looms over the waterfront—large, white, impossible to miss. The beach itself: Momochi Seaside Park. Clean sand, calm water, minimal crowds on a Monday evening.
+Arrived at the beach around 18:00. Fukuoka Dome looms over the waterfront—large, white, impossible to miss. Fukuoka Tower stands nearby: 234 meters tall, triangular cross-section, covered in mirrors. The beach itself: Momochi Seaside Park. Clean sand, calm water, minimal crowds on a Monday evening.
 
-Sat on the beach. Ate the onigiri. Drank the cocoa milk. Watched the sun set over Hakata Bay. The light was excellent—golden hour transitioning to blue hour. Photographed the dome, the beach, the water. Settings: f/8, ISO 200-400, varying shutter speeds as the light dropped.
+Sat on the beach. Ate the onigiri. Drank the cocoa milk. Watched the sun set over Hakata Bay. The light was excellent—golden hour transitioning to blue hour. Photographed the dome, the tower, the beach, the water. Settings: f/8, ISO 200-400, varying shutter speeds as the light dropped. The tower reflected the sunset. This was visually satisfying.
 
 The cocoa milk was notably good. Japanese convenience store drinks exceed expectations. This would become a pattern.
 
