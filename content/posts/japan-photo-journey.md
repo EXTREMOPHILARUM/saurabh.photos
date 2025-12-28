@@ -171,9 +171,19 @@ But it works. For one-lens travel photography, it's sufficient.
 
 Left Dazaifu at 17:04. Back to Fukuoka by 17:39.
 
-Evening plan: Canal City Hakata. It's a shopping and entertainment complex built around an artificial canal. The design is distinctive—curved architecture, water features, bright colors. Not traditional Japanese aesthetic. More postmodern shopping mall with ambition.
+Sunset was approaching. I headed to the beach near Fukuoka Dome. Stopped at a Lawson convenience store on the way. Purchased onigiri and Natural Lawson cold cocoa milk. This was the correct decision.
 
-Walked from the train station to Canal City. About 3.3 kilometers. Arrived around 18:00. Shot the exterior, the canal, the interior atrium. The evening light was better than midday—softer, more directional.
+Arrived at the beach around 18:00. Fukuoka Dome looms over the waterfront—large, white, impossible to miss. The beach itself: Momochi Seaside Park. Clean sand, calm water, minimal crowds on a Monday evening.
+
+Sat on the beach. Ate the onigiri. Drank the cocoa milk. Watched the sun set over Hakata Bay. The light was excellent—golden hour transitioning to blue hour. Photographed the dome, the beach, the water. Settings: f/8, ISO 200-400, varying shutter speeds as the light dropped.
+
+The cocoa milk was notably good. Japanese convenience store drinks exceed expectations. This would become a pattern.
+
+Left the beach around 18:45. Headed to Canal City Hakata.
+
+Canal City Hakata is a shopping and entertainment complex built around an artificial canal. The design is distinctive—curved architecture, water features, bright colors. Not traditional Japanese aesthetic. More postmodern shopping mall with ambition.
+
+Walked from the beach area to Canal City. About 3.3 kilometers total. Arrived around 19:00. Shot the exterior, the canal, the interior atrium. The evening light was fading but still usable—softer, more directional than midday.
 
 Took the subway back to the hotel around 19:50. Backed up photos to MacBook. Day 2 photo count: 143 RAW files. Estimated keepers: maybe 12.
 
