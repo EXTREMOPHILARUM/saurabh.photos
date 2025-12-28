@@ -1,0 +1,37 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer camera aperture ring -->
+  <circle cx="100" cy="100" r="80" stroke="currentColor" stroke-width="2.5" fill="none"/>
+
+  <!-- Aperture blades (8 blades forming a hexagonal aperture) -->
+  <g transform="translate(100, 100)">
+    <!-- Blade 1 -->
+    <path d="M 0,-50 L 15,-35 L 15,-15 L 0,-25 Z" fill="currentColor" opacity="0.9"/>
+    <!-- Blade 2 -->
+    <path d="M 35.36,-35.36 L 25,-15 L 15,-15 L 35.36,-25 Z" fill="currentColor" opacity="0.85" transform="rotate(45)"/>
+    <!-- Blade 3 -->
+    <path d="M 50,0 L 35,15 L 15,15 L 25,0 Z" fill="currentColor" opacity="0.8" transform="rotate(90)"/>
+    <!-- Blade 4 -->
+    <path d="M 35.36,35.36 L 15,25 L 15,15 L 25,35.36 Z" fill="currentColor" opacity="0.75" transform="rotate(135)"/>
+    <!-- Blade 5 -->
+    <path d="M 0,50 L -15,35 L -15,15 L 0,25 Z" fill="currentColor" opacity="0.7" transform="rotate(180)"/>
+    <!-- Blade 6 -->
+    <path d="M -35.36,35.36 L -25,15 L -15,15 L -35.36,25 Z" fill="currentColor" opacity="0.65" transform="rotate(225)"/>
+    <!-- Blade 7 -->
+    <path d="M -50,0 L -35,-15 L -15,-15 L -25,0 Z" fill="currentColor" opacity="0.6" transform="rotate(270)"/>
+    <!-- Blade 8 -->
+    <path d="M -35.36,-35.36 L -15,-25 L -15,-15 L -25,-35.36 Z" fill="currentColor" opacity="0.55" transform="rotate(315)"/>
+  </g>
+
+  <!-- Center circle (aperture opening) -->
+  <circle cx="100" cy="100" r="20" fill="none" stroke="currentColor" stroke-width="1.5"/>
+
+  <!-- Inner detail ring -->
+  <circle cx="100" cy="100" r="60" stroke="currentColor" stroke-width="1" fill="none" opacity="0.4"/>
+
+  <!-- Stylized 'S' integrated into the design -->
+  <path d="M 100,70 Q 115,70 115,80 Q 115,85 110,87 Q 115,89 115,94 Q 115,104 100,104 Q 85,104 85,94"
+        stroke="currentColor"
+        stroke-width="2.5"
+        fill="none"
+        stroke-linecap="round"/>
+</svg>
