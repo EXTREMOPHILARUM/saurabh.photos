@@ -11,17 +11,17 @@ published: true
 
 I spent 262.51 hours moving. That's 10.94 days of pure transportation time. Not sightseeing. Not photography. Just getting from Point A to Point B and back again.
 
-97 separate trips. I did the math: 4.41 trips per day on average. The shortest was a 590-meter ferry ride across a channel in the Seto Inland Sea. The longest was 6,799.43 kilometers straight up into the sky from Narita back to Mumbai.
+100 separate trips. I did the math: 4.55 trips per day on average. The shortest was a 590-meter ferry ride across a channel in the Seto Inland Sea. The longest was 6,799.43 kilometers straight up into the sky from Narita back to Mumbai.
 
-Total distance covered: 17,332.77 kilometers. For context, that's nearly halfway around the Earth at the equator (40,075 km). I flew to Japan. I moved around Japan. I flew home. The flights accounted for 78% of that distance.
+Total distance covered: 17,370.66 kilometers. For context, that's nearly halfway around the Earth at the equator (40,075 km). I flew to Japan. I moved around Japan. I flew home. The flights accounted for 78.2% of that distance.
 
 Here's how those kilometers broke down:
-- **78.2%** by aircraft (13,587 km) - Two flights: Mumbai→Tokyo, Tokyo→Mumbai
-- **18.8%** by train (3,253 km) - Japan Rail Pass: best decision
-- **1.2%** by bus (204 km) - When trains weren't an option
-- **0.7%** on foot (128 km) - My camera bag weighed 8 kg
-- **0.6%** by bicycle (99 km) - My legs still remember
-- **0.5%** other modes (61 km) - Subway, tram, ferry, taxi
+- **78.2%** by aircraft (13,587.22 km) - Two flights: Mumbai→Tokyo, Tokyo→Mumbai
+- **18.8%** by train (3,268.4 km) - Japan Rail Pass: best decision
+- **1.2%** by bus (204.84 km) - When trains weren't an option
+- **0.8%** on foot (134.96 km) - My camera bag weighed 4.5 kg
+- **0.6%** by bicycle (100.29 km) - My legs still remember
+- **0.5%** other modes (74.95 km) - Subway, tram, ferry, taxi
 
 The trains in Japan were never late. Not once. This broke my understanding of public transportation.
 
@@ -32,9 +32,9 @@ The trains in Japan were never late. Not once. This broke my understanding of pu
 
 The initial problem was simple: photograph autumn in Japan. The solution became complicated when I realized Japan is 377,975 square kilometers and autumn doesn't wait.
 
-I bought a 14-day JR Pass for ¥29,110. Based on my 3,253 kilometers of train travel, that's ¥8.95 per kilometer. The alternative was paying full fare at roughly ¥14-20 per kilometer. The JR Pass saved approximately ¥15,000-20,000 total.
+I bought a 14-day JR Pass for ¥80,000. Based on my 3,268.4 kilometers of train travel, that's ¥24.48 per kilometer. The alternative was paying full fare for multiple long-distance Shinkansen rides (Tokyo→Fukuoka alone is ¥22,000+ one way). The JR Pass saved approximately ¥30,000-40,000 total.
 
-Why 14 days instead of 21? The last 7 days were primarily in Tokyo exploring neighborhoods. Tokyo's metro and subway systems are mostly not covered by JR Pass. Paying for a 21-day pass (¥59,350) would have wasted money on days when I wouldn't use JR trains.
+Why 14 days instead of 21? The last 7 days were primarily in Tokyo exploring neighborhoods. Tokyo's metro and subway systems are mostly not covered by JR Pass. Paying for a 21-day pass (¥100,000) would have wasted money on days when I wouldn't use JR trains.
 
 Camera gear weight: 4.5 kg
 - Camera body (Nikon D7500): 0.65 kg
@@ -44,7 +44,7 @@ Camera gear weight: 4.5 kg
 - Memory cards, filters, cleaning kit: 0.3 kg
 - Bag itself: 0.5 kg
 
-I walked 128.91 kilometers carrying this equipment. One camera, one lens, one laptop. Simplicity matters when you're walking 6-7 km per day.
+I walked 134.96 kilometers carrying this equipment. One camera, one lens, one laptop. Simplicity matters when you're walking 6-7 km per day.
 
 ### The Golden Hour Problem
 
@@ -63,65 +63,31 @@ This meant constantly recalculating when to be where. The trains run on time, bu
 **Transport**: Aircraft
 **Duration**: 8.89 hours
 
-**The Numbers**:
-Originally scheduled: Sunday, September 28, 8:00 PM → Monday, September 29, 7:25 AM
-Delayed to: Monday, September 29, 3:45 AM → 3:55 PM
-
-Departure delay: Approximately 7 hours 45 minutes
-Arrival delay: Approximately 8 hours 30 minutes
-
-Flight distance: 6,787.78 kilometers. Actual flight duration: 8.89 hours. Average speed: 763 km/h.
-
-Arrived Narita Airport, Tokyo (35.75°N, 140.39°E) at 15:55 local time on September 29th instead of 07:25. This delay destroyed the day's schedule. The plan was to reach Fukuoka by evening. The reality was arriving in Tokyo in mid-afternoon with jet lag and no viable option to travel further south.
-
-**What Actually Happened**:
-The journey to photograph Japan was scheduled to start Sunday evening, September 28th, at 8:00 PM.
-
 Sunday morning, I received the notification: "Flight delayed. New departure: Monday, September 29, 3:45 AM."
 
-This created an interesting problem. The flight delay wasn't a surprise at the airport. It was announced 12 hours in advance. I had Sunday to decide: stay home and sleep, or go to the airport Sunday evening anyway and wait there overnight.
+The math was simple. Original departure: Sunday 8:00 PM. New departure: Monday 3:45 AM. That's a 7 hour 45 minute delay. The arrival delay would be worse—approximately 8.5 hours, landing at 3:55 PM instead of 7:25 AM.
 
-The math:
-- Original departure: Sunday 8:00 PM
-- New departure: Monday 3:45 AM
-- Delay: ~7 hours 45 minutes
+I had 12 hours to decide: go to the airport Sunday evening and wait overnight, or stay home and sleep in my own bed. I chose the bed. This was objectively correct.
 
-I chose to stay home Sunday night. Slept in my own bed. Arrived at Mumbai Airport around 1:00 AM Monday morning. Check-in opened at 1:30 AM. Security was empty at 2:00 AM. Boarded around 3:15 AM. Took off at 3:45 AM.
+Arrived at Mumbai Airport at 1:00 AM Monday. Check-in opened at 1:30 AM. Security at 2:00 AM was empty—one of the few advantages of flying at 3:45 AM. Boarded at 3:15 AM. Took off on schedule at 3:45 AM. The irony: the delayed flight departed on time for its delayed schedule.
 
-This is the problem with tightly scheduled photography trips: they assume things work as planned. An 8.5-hour delay in arrival means you don't land in the morning. You land in mid-afternoon. Your Day 1 schedule evaporates.
+The flight covered 6,787.78 kilometers in 8.89 hours. Average speed: 763 km/h. Economy class, window seat. I spent most of it trying to sleep while my brain insisted on recalculating the itinerary. Somewhere over China, I accepted the obvious: reaching Fukuoka on Day 1 was mathematically impossible.
 
-The flight itself: standard. Economy class, window seat. A 3:45 AM departure means you board in darkness and take off in darkness. Spent most of the flight trying to sleep with mixed results. Recalculated the schedule somewhere over China and accepted that reaching Fukuoka on Day 1 was now impossible.
+Somewhere over the Bay of Bengal, sunrise happened. I missed it initially. The aircraft had electrically dimming windows—impressive technology, terrible for photography. The windows were blacked out. I assumed this was non-negotiable.
 
-Landed at Narita around 3:55 PM instead of 7:25 AM. Immigration took 47 minutes. Retrieved luggage: all present. Camera gear (Nikon D7500 with kit lens, MacBook M4 Pro): undamaged.
+I later figured out you could override them by clicking the button multiple times. This is the kind of discovery that comes too late to be useful. The sunrise was gone. But I still tried taking a few shots over the bay. Just for the views. Settings: f/5.6, 1/500s, ISO 800.
 
-The original plan: land at 7:25 AM, activate 14-day JR Pass, catch Shinkansen to Fukuoka by afternoon, arrive evening, start photography Day 2.
+Results: what you'd expect when shooting through airplane windows at 763 km/h. The images existed. They weren't good. Lesson learned: click harder next time.
 
-The new plan: land at 3:55 PM, get to Tokyo, find hotel, sleep, activate JR Pass tomorrow, travel to Fukuoka Day 2, start photography Day 3.
+Landed at Narita at 15:55. Immigration took 47 minutes. I did the math while standing in line: if I cleared customs by 16:45, I could catch a train to Tokyo by 17:15, arrive around 18:30. The original plan—activate the ¥80,000 JR Pass, board the Shinkansen to Fukuoka, arrive by evening—was dead. The alternative was navigating an unfamiliar city after midnight while jet-lagged and carrying camera gear (Nikon D7500, MacBook M4 Pro, lenses, batteries: 4.5 kg total).
+
+I retrieved my luggage. All present. Camera equipment: undamaged. Equipment check: passed.
+
+New plan: get to Tokyo, find hotel, sleep, activate JR Pass tomorrow, travel to Fukuoka Day 2. Start photography Day 3 instead of Day 2.
 
 Sometimes logistics fail before photography even begins.
 
-**Photography Notes**:
-Airplane window photography: possible but difficult. Requirements:
-- Window seat (obviously)
-- Clean window (not guaranteed)
-- Daytime flight (this was mostly night)
-- No wing in frame (seat position matters)
-- High shutter speed (1/1000s minimum to compensate for aircraft vibration and speed)
-
-This flight was at night. Photographed the sunset over the Bay of Bengal during the first hour. Settings: f/5.6, 1/500s, ISO 800. Shot through the airplane window using a rubber lens hood pressed against the glass to reduce reflections.
-
-Results: mixed. The atmospheric layers during sunset worked. The scratched airplane window reduced sharpness. This is the trade-off.
-
-**Reality Check**:
-Expected: Depart Sunday 8:00 PM, arrive Monday 7:25 AM, smoothly transit to Fukuoka, start photography by evening.
-
-Reality: Flight delayed to Monday 3:45 AM departure, arrived at 3:55 PM instead of 7:25 AM, too late to travel further, stayed in Tokyo for an unplanned night.
-
-Lesson learned on Day 0: Travel plans are suggestions. Delays are inevitabilities. Advance notice doesn't prevent impact. Flexibility is mandatory.
-
-But I was in Japan, even if 7 hours later than planned. Camera equipment: ready. Energy levels: depleted. Determination: resilient.
-
-The next 21 days would cover 10,545 km across Japan before flying the 6,799 km back home. But first: hotel in Tokyo. Then sleep. Then recalculate everything.
+The next 21 days would cover 10,545 km across Japan before flying 6,799 km back home. But first: hotel in Tokyo. Then sleep. Then recalculate everything.
 
 **Photos from This Flight**:
 [Add photo gallery here]
@@ -134,47 +100,37 @@ The next 21 days would cover 10,545 km across Japan before flying the 6,799 km b
 **Transport**: Train, walking
 **Walking**: ~2 km
 
-**The Numbers**:
-Landed at Narita at 15:55. By the time I cleared immigration, collected luggage, and figured out train tickets, it was 17:15.
+Immigration took 47 minutes. Cleared at 16:42. Eight hours late, but I was through.
 
-Took the Narita Express to Tokyo Station: 81.7 kilometers in approximately 1 hour. Did not activate the JR Pass yet. This was intentional. The JR Pass costs ¥29,110 for 14 days. Activating it today would waste one day since I wouldn't be traveling far. Better to activate it tomorrow when heading to Fukuoka.
+I went to the JR East Travel Service Center at Tokyo Station. The staff were remarkably helpful. This was my first substantial interaction with people in Japan. They spoke adequate English. I spoke inadequate Japanese. We managed.
 
-Arrived in Tokyo around 18:30. Found a hotel near Tokyo Station. Checked in. Collapsed.
+I activated my 14-day JR Pass—effective tomorrow. The math: ¥80,000 for 14 days. Activating it today meant burning one day on an 81.7 km train ride to Tokyo. Tomorrow's Shinkansen to Fukuoka: 507 kilometers. The pass would start earning its value then.
 
-The original schedule had me in Fukuoka by now. The 8.5-hour flight delay had cascaded into losing an entire day of the itinerary. This is how delays work: they don't just shift your schedule by the delay duration. They shift it by entire logical segments.
+I also acquired a Goshuincho—an eki stamp book for collecting station stamps. I'll explain this later. And a Welcome Suica card. I'd wanted a regular Suica. They only had Welcome Suica available. This was fine.
 
-**What Actually Happened**:
-The plan was simple: land at 07:25, activate 14-day JR Pass, travel to Fukuoka (approximately 5 hours by Shinkansen), arrive early evening, rest, start photography Day 2.
+The staff helped me plan tomorrow's journey to Fukuoka. I reserved a seat for the 6 AM train. My understanding: the JR Pass gives unreserved seating only, which means first-come-first-serve. Reserved seats cost extra but guarantee a seat. I didn't want to worry about finding a seat at 6 AM.
 
-The 8.5-hour delay destroyed this plan. Landing at 15:55 meant:
-- Clear immigration by 16:45
-- Reach Tokyo by 18:30
-- Earliest viable Shinkansen to Fukuoka departs 19:00, arrives past midnight
-- Too late, too tired, too risky to navigate a new city at night
+I thought this was better. I was wrong. I'd figure this out later.
 
-Decision: Stay in Tokyo. Reset. Travel to Fukuoka tomorrow. This costs one day but preserves sanity.
+Got my Narita Express ticket. Caught the last train of the day at 18:15. Almost missed it. This would have been suboptimal.
 
-Walked around Tokyo Station area briefly. Shot a few test photos to verify camera survived the flight. Nikon D7500 + kit lens (18-140mm): functional. This is my setup for the entire trip. One camera, one lens, one approach. Simplicity over versatility.
+The Narita Express covered 81.7 kilometers in 1.06 hours. During the journey, I booked a hotel on my phone. Found Keio Presso Inn near Tokyo Station. Made a reservation. There were multiple Keio Presso Inn locations in the area. This detail would matter.
 
-Found convenience store. Bought onigiri (rice balls) and water. First Japanese convenience store experience: impressive. The efficiency, cleanliness, and variety exceeded expectations. This would be a recurring theme.
+Arrived Tokyo Station at 19:19. Walked to what I thought was my hotel. There were two Keio Presso Inn locations near Tokyo Station. I went to the wrong one. Of course.
 
-Returned to hotel. Backed up the few photos taken to MacBook M4 Pro. Set alarms for tomorrow. Slept badly due to jet lag.
+Tried checking in using the automated machine. It couldn't find my booking. This seemed bad. I panicked briefly. The staff intervened, checked my confirmation, and explained: "You need Keio Presso Inn Otemachi. That's the other one."
 
-**Photography Notes**:
-Shot exactly 7 test photos around Tokyo Station. Settings: f/5.6, 1/125s, ISO 400. The kit lens (18-140mm) is a compromise lens. Not the sharpest. Not the fastest. But it covers 18mm wide angle to 140mm light telephoto in one package. For travel photography where weight and simplicity matter, it's adequate.
+Problem identified. Solution provided. I walked to the correct hotel.
 
-Would I prefer multiple prime lenses? Yes. Did I want to carry multiple lenses? No. The D7500 body + 18-140mm lens weighs approximately 1.3 kg. Add the MacBook M4 Pro (1.6 kg), chargers, batteries, and accessories: total bag weight approximately 4.5 kg. This is manageable for extended walking.
+Dropped my luggage. Freshened up. Left with my camera for Akihabara.
 
-Tested autofocus: worked. Tested image stabilization: worked. Tested sensor: no dust spots. Equipment check: passed.
+Walked around. Shot a few test photos—f/5.6, 1/125s, ISO 400. Nikon D7500 + 18-140mm kit lens: functional. This was my setup for the entire trip. One camera, one lens, one approach. Would I prefer multiple prime lenses? Yes. Did I want to carry multiple lenses? No. The D7500 body + kit lens weighed 1.3 kg. Add the MacBook M4 Pro (1.6 kg), chargers, batteries, accessories: total bag weight 4.5 kg. Manageable for extended walking. Multiple lenses would push it past manageable into regrettable.
 
-**Reality Check**:
-Expected Day 1: Arrive early morning (7:25 AM), travel to Fukuoka, begin Southern Japan photography.
+Equipment check: autofocus worked, image stabilization worked, sensor showed no dust spots. Everything passed.
 
-Actual Day 1: Arrive late afternoon (3:55 PM) due to 8.5-hour delay, stay in Tokyo, reset schedule, accept losses.
+Found a 7-Eleven. Bought food. The efficiency of Japanese convenience stores continued to impress. Walked back to the hotel. Backed up photos to the MacBook. Set alarms for tomorrow. Slept badly due to jet lag.
 
-The 8.5-hour arrival delay cost one full day of planned photography. This is the risk of international travel. Airlines have technical issues. Schedules break. Photographers adapt or fail.
-
-I adapted. Day 1 became a recovery day instead of a photography day. The trip would continue. Just not according to the original plan.
+Day 1: completed. Tomorrow: Fukuoka.
 
 ---
 
@@ -185,9 +141,9 @@ I adapted. Day 1 became a recovery day instead of a photography day. The trip wo
 **Walking**: 6.13 km
 
 **The Numbers**:
-Woke up at 06:30. Activated the 14-day JR Pass at Tokyo Station at 08:00. Cost: ¥29,110. This pass allows unlimited travel on JR trains (including most Shinkansen) for 14 consecutive days.
+Woke up at 06:30. Activated the 14-day JR Pass at Tokyo Station at 08:00. Cost: ¥80,000. This pass allows unlimited travel on JR trains (including most Shinkansen) for 14 consecutive days.
 
-The math: If I travel more than approximately 1,900 km by JR trains over 14 days, the pass breaks even compared to buying individual tickets. Based on the planned route (Tokyo → Fukuoka → Nagasaki → Hiroshima → Onomichi → Nagoya → Nagano → Tokyo loop), I would cover approximately 3,000 km. The pass would save roughly ¥15,000-20,000.
+The math: Individual Shinkansen tickets are expensive. Tokyo→Fukuoka costs ¥22,320 one way. With multiple long-distance routes planned (Tokyo→Fukuoka, Fukuoka→Nagasaki, Hiroshima→Nagoya, Nagano→Tokyo), buying individual tickets would cost approximately ¥110,000-120,000. The ¥80,000 pass saves roughly ¥30,000-40,000.
 
 Boarded Shinkansen to Fukuoka at 09:15. Distance: 507.38 kilometers. Duration: 3.02 hours. Average speed: 168 km/h. This is the Nozomi or Mizuho Shinkansen - the fastest tier. Except JR Pass doesn't cover Nozomi/Mizuho on this route. I took the Sakura Shinkansen instead. Slightly slower but covered by the pass.
 
@@ -668,7 +624,7 @@ After mountains, forests, trains, and cycling, Tokyo felt like returning to civi
 
 The neighborhood exploration phase of the trip started here. Different challenge: not covering distance but covering culture. Tokyo's neighborhoods each have distinct character. The plan: photograph several over the coming days.
 
-My camera: still working perfectly. The equipment had survived two weeks of heavy use, including rain, humidity, temperature changes, and 128 kilometers of walking. Good gear matters.
+My camera: still working perfectly. The equipment had survived two weeks of heavy use, including rain, humidity, temperature changes, and 135 kilometers of walking. Good gear matters.
 
 **Photos from This Day**:
 [Add photo gallery here]
@@ -791,12 +747,12 @@ Street photography in Akihabara: the crowds provided anonymity. People expected 
 **Japan Mission Summary:**
 - **Duration**: 22 days total (including travel days), 21 days in Japan
 - **Active transport time**: 262.51 hours (49.7% of 528 hours total)
-- **Total distance**: 17,332.77 km
-  - By air: 13,587.21 km (78.4%) - Mumbai→Tokyo + Tokyo→Mumbai
-  - By rail: 3,253.20 km (18.8%)
-  - On foot: 128.91 km (0.7%)
-  - By bicycle: 99.38 km (0.6%)
-  - Other: 264.07 km (1.5%) - Bus, subway, tram, ferry, taxi
+- **Total distance**: 17,370.66 km
+  - By air: 13,587.22 km (78.2%) - Mumbai→Tokyo + Tokyo→Mumbai
+  - By rail: 3,268.4 km (18.8%)
+  - On foot: 134.96 km (0.8%)
+  - By bicycle: 100.29 km (0.6%)
+  - Other: 279.79 km (1.6%) - Bus, subway, tram, ferry, taxi
 - **Photos taken**: 4,847 RAW files (in Japan only)
 - **Photos worth keeping**: 380 (7.8% keeper rate)
 - **Ramen bowls consumed**: 17 (documented)
@@ -844,17 +800,18 @@ Wildlife (monkeys): f/4, 1/320s, ISO 800
 ## Technical Considerations for Japan Photography
 
 **The JR Pass Math:**
-Cost: ¥29,110 for 14 days
-Distance traveled by JR trains: ~3,253 km
-Cost per kilometer: ¥8.95
-Standard fare cost per kilometer: ¥15-20
-Total savings: ~¥15,000-20,000
-Conclusion: Worth it if you travel more than ~1,900 km during the validity period
+Cost: ¥80,000 for 14 days (21-day pass: ¥100,000)
+Distance traveled by JR trains: ~3,268.4 km
+Cost per kilometer: ¥24.48
+Individual ticket costs for major routes: Tokyo→Fukuoka ¥22,320, plus Nagasaki, Hiroshima, Nagoya, Nagano segments
+Total individual fare cost: ~¥110,000-120,000
+Total savings: ~¥30,000-40,000
+Conclusion: Worth it if you plan multiple long-distance Shinkansen trips
 
 The JR Pass provides value beyond cost savings: flexibility. You can board any JR train without reservation. This matters when you miss a shot and want to catch the next train to try again.
 
 **Gear Weight vs. Distance Trade-off:**
-Carried 4.5 kg of camera equipment for 128.91 km of walking. Total weight-distance: 580 kg·km.
+Carried 4.5 kg of camera equipment for 134.96 km of walking. Total weight-distance: 607.32 kg·km.
 
 Could have reduced weight by:
 - Leaving laptop behind (backup to cloud): -1.6 kg
@@ -906,7 +863,7 @@ Initially viewed trains as necessary gaps between shooting locations. Eventually
 Same applies to waiting areas, platforms, and the infrastructure. Infrastructure photography is underrated.
 
 **The Walking Reality:**
-128.91 kilometers of walking with 8.2 kg of equipment was physically demanding. Preparation helped: broke in boots before the trip, built up shoulder strength, maintained good posture while walking.
+134.96 kilometers of walking with 8.2 kg of equipment was physically demanding. Preparation helped: broke in boots before the trip, built up shoulder strength, maintained good posture while walking.
 
 Would still be sore afterward. Some discomfort is unavoidable. It's the cost of access.
 
@@ -921,7 +878,7 @@ Balance matters: be present, not just productive.
 
 ## Final Thoughts
 
-The statistics tell one story: 17,332.77 kilometers covered, 262.51 hours in motion, 97 separate trips, 22 days of logistics and problem-solving.
+The statistics tell one story: 17,370.66 kilometers covered, 262.51 hours in motion, 100 separate trips, 22 days of logistics and problem-solving.
 
 The photographs tell another story: autumn colors in mountains, monkeys in hot springs, neon lights in Tokyo, traditional architecture in small towns, and the quiet moments between destinations.
 
@@ -974,10 +931,10 @@ Reality involves early wake-ups, heavy equipment, sore shoulders, missed shots, 
 Reality is better than the marketed version because it's earned.
 
 **Final Statistics:**
-- Flew 13,587.21 km across two flights (Mumbai→Tokyo, Tokyo→Mumbai)
-- Walked 128.91 km carrying 8.2 kg of camera gear
-- Rode trains for 3,253.20 km at an average of ~85 km/h
-- Cycled 99.38 km across six islands
+- Flew 13,587.22 km across two flights (Mumbai→Tokyo, Tokyo→Mumbai)
+- Walked 134.96 km carrying 8.2 kg of camera gear
+- Rode trains for 3,268.4 km at an average of ~85 km/h
+- Cycled 100.29 km across six islands
 - Shot 4,847 photos in 21 days (231 photos per day)
 - Achieved 7.8% keeper rate (professional standard is 5-10%)
 - Consumed 17 bowls of ramen (documented instances only)
@@ -992,7 +949,7 @@ Japan in autumn exceeded expectations while simultaneously being exactly what ex
 
 Would I return? Yes. Different season, different regions, different objectives. The country offers more than three weeks can cover.
 
-But for now: 17,332.77 kilometers, 262.51 hours, 97 trips, 380 photographs, and proof that careful planning combined with flexible execution produces results.
+But for now: 17,370.66 kilometers, 262.51 hours, 100 trips, 380 photographs, and proof that careful planning combined with flexible execution produces results.
 
 The trains were never late. The flights were on time. This still seems impossible.
 
