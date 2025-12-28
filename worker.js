@@ -1,19 +1,26 @@
 export default {
   async fetch(request, env) {
-    const url = new URL(request.url);
-    const pathname = url.pathname;
+    try {
+      const url = new URL(request.url);
 
-    // Try to fetch the requested asset
-    let response = await env.ASSETS.fetch(request);
+      // Try to fetch the requested asset
+      let response = await env.ASSETS.fetch(request);
 
-    // If we get a 404 and it's not a file with an extension, serve index.html
-    // This allows React Router to handle the routing client-side
-    if (response.status === 404 && !pathname.match(/\.[a-zA-Z0-9]+$/)) {
-      // Serve index.html for SPA routes
-      url.pathname = '/index.html';
-      response = await env.ASSETS.fetch(url.toString());
+      // If we get a 404 and it's not a file with an extension, serve index.html
+      if (response.status === 404 && !url.pathname.includes('.')) {
+        // Create new request for index.html
+        const indexUrl = new URL(url);
+        indexUrl.pathname = '/index.html';
+        const indexRequest = new Request(indexUrl, {
+          method: request.method,
+          headers: request.headers,
+        });
+        response = await env.ASSETS.fetch(indexRequest);
+      }
+
+      return response;
+    } catch (error) {
+      return new Response('Error: ' + error.message, { status: 500 });
     }
-
-    return response;
   },
 };
